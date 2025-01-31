@@ -80,9 +80,12 @@ Based on the Exploratory Data Analysis (EDA) and insights derived from the SQL q
     - **Actionable Steps:**
       1. Optimize truck routing to reduce fuel consumption and minimize downtime.
       2. Consider geographic clustering of routes to reduce truck wear and travel time
+---
+![dashboard](https://github.com/user-attachments/assets/eeba3a61-99ad-4447-a10b-24d28798dd35)
 
 ---
-##RESULTS
+
+## RESULTS
 1. Truck Drivers: 120 drivers employed, potential shortages during peak periods.
 2. Efficient Trucks: 85 out of 150 trucks are efficient, 65 trucks underperforming.
 3. Coverage Areas: Average distance of 250 km daily; some trucks cover 450 km.
